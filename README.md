@@ -7,9 +7,9 @@
 
 <!--E-->
 <p align="center">
-<img src="https://imgur.com/KEBVyrS.gif">
-<a href="//imgur.com/KEBVyrS"> a </a>
-<img src="https://i.imgur.com/QxxuRxB.gif">
+<img src="./retro.gif" height="70%" width="50%">
+<img src="./Synthwave.gif" height="70%" width="50%">
+
 
 
 <!--📏LINE-->
