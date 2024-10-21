@@ -5,10 +5,12 @@
 </div>
 
 
-<!--E-->
+<!-- Images -->
 <p align="center">
-<img src="./retro.gif" height="70%" width="50%">
-<img src="./Synthwave.gif" height="70%" width="50%">
+  <img src="./retro.gif" width="40%" style="display: inline-block; margin-right: 10px;">
+  <img src="./Synthwave.gif" width="53%" style="display: inline-block;">
+</p>
+
 
 
 
