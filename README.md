@@ -4,10 +4,12 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<div align="center">
-to my personal SPACE !
-</div>
 
+<!--E-->
+<p align="center">
+<img src="https://imgur.com/KEBVyrS.gif">
+<a href="//imgur.com/KEBVyrS"> a </a>
+<img src="https://i.imgur.com/QxxuRxB.gif">
 
 
 <!--📏LINE-->
