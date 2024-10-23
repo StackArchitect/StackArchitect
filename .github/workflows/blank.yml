@@ -32,8 +32,8 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: SkyBlyvion
-          author_email: richtofen60@gmail.com
+          author_name: StackArchitect
+          author_email: ukroinomr@gmail.com
           message: ':memo: README.md updated by GBot'
           add: 'README.md'
           push: true  # Push directement après commit
