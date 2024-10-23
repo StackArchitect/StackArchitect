@@ -66,5 +66,5 @@
 </div>
 
 - **Updated:** Wed Oct 23 2024
-- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
+- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
 
