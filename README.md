@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Oct 22 2024
-- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
+- **Updated:** Wed Oct 23 2024
+- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
 
