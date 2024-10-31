@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Oct 30 2024
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Updated:** Thu Oct 31 2024
+- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
 
