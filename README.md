@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Nov 05 2024
-- **Quote of the Day:** *“The most important property of a program is whether it accomplishes the intention of its user.” – C.A.R. Hoare*
+- **Updated:** Wed Nov 06 2024
+- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
 
