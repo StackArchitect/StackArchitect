@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Nov 13 2024
-- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
+- **Updated:** Thu Nov 14 2024
+- **Quote of the Day:** *“The most important property of a program is whether it accomplishes the intention of its user.” – C.A.R. Hoare*
 
