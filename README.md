@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Nov 17 2024
-- **Quote of the Day:** *“Simplicity is the soul of efficiency.” – Austin Freeman*
+- **Updated:** Mon Nov 18 2024
+- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
 
