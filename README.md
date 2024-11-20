@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Nov 19 2024
-- **Quote of the Day:** *“First, solve the problem. Then, write the code.” – John Johnson*
+- **Updated:** Wed Nov 20 2024
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
