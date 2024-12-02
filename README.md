@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Dec 01 2024
-- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
+- **Updated:** Mon Dec 02 2024
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
