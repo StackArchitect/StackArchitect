@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Dec 02 2024
-- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
+- **Updated:** Tue Dec 03 2024
+- **Quote of the Day:** *“Walking on water and developing software from a specification are easy if both are frozen.” – Edward V. Berard*
 
