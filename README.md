@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Dec 03 2024
-- **Quote of the Day:** *“Walking on water and developing software from a specification are easy if both are frozen.” – Edward V. Berard*
+- **Updated:** Wed Dec 04 2024
+- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
 
