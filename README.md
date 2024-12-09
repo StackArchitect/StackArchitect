@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Dec 08 2024
-- **Quote of the Day:** *“Good code is its own best documentation.” – Steve McConnell*
+- **Updated:** Mon Dec 09 2024
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
