@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Dec 26 2024
-- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
+- **Updated:** Fri Dec 27 2024
+- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
 
