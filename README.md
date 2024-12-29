@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Dec 28 2024
-- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
+- **Updated:** Sun Dec 29 2024
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
