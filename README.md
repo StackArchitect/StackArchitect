@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Dec 29 2024
-- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
+- **Updated:** Mon Dec 30 2024
+- **Quote of the Day:** *“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupery*
 
