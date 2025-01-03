@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Jan 02 2025
-- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
+- **Updated:** Fri Jan 03 2025
+- **Quote of the Day:** *“The best thing about a boolean is even if you are wrong, you are only off by a bit.” – Anonymous*
 
