@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Jan 05 2025
-- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
+- **Updated:** Mon Jan 06 2025
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
