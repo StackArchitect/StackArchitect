@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Jan 11 2025
-- **Quote of the Day:** *“To iterate is human, to recurse divine.” – L. Peter Deutsch*
+- **Updated:** Sun Jan 12 2025
+- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
 
