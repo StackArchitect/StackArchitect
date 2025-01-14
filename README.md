@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Jan 13 2025
-- **Quote of the Day:** *“Truth can only be found in one place: the code.” – Robert C. Martin*
+- **Updated:** Tue Jan 14 2025
+- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
 
