@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Jan 14 2025
-- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
+- **Updated:** Wed Jan 15 2025
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
