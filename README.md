@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Jan 16 2025
-- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
+- **Updated:** Fri Jan 17 2025
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
