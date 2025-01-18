@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Jan 17 2025
-- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
+- **Updated:** Sat Jan 18 2025
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
