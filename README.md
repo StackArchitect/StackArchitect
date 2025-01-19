@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Jan 18 2025
-- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
+- **Updated:** Sun Jan 19 2025
+- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
 
