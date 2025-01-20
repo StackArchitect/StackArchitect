@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Jan 19 2025
-- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
+- **Updated:** Mon Jan 20 2025
+- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
 
