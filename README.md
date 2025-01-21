@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Jan 20 2025
-- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
+- **Updated:** Tue Jan 21 2025
+- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
 
