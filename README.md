@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Jan 30 2025
-- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
+- **Updated:** Fri Jan 31 2025
+- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
 
