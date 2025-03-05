@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Mar 04 2025
-- **Quote of the Day:** *“The best thing about a boolean is even if you are wrong, you are only off by a bit.” – Anonymous*
+- **Updated:** Wed Mar 05 2025
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
