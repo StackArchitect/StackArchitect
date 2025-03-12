@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Mar 11 2025
-- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
+- **Updated:** Wed Mar 12 2025
+- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
 
