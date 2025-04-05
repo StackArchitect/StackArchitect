@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Apr 04 2025
-- **Quote of the Day:** *“Programmer: A machine that turns coffee into code.” – Anonymous*
+- **Updated:** Sat Apr 05 2025
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
