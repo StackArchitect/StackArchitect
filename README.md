@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Apr 14 2025
-- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
+- **Updated:** Tue Apr 15 2025
+- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
 
