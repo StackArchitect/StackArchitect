@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Apr 20 2025
-- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
+- **Updated:** Mon Apr 21 2025
+- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
 
