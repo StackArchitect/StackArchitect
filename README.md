@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Apr 27 2025
-- **Quote of the Day:** *“To iterate is human, to recurse divine.” – L. Peter Deutsch*
+- **Updated:** Mon Apr 28 2025
+- **Quote of the Day:** *“There are only two kinds of languages: the ones people complain about and the ones nobody uses.” – Bjarne Stroustrup*
 
