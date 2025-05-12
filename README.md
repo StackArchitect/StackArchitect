@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun May 11 2025
-- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
+- **Updated:** Mon May 12 2025
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
