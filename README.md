@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue May 13 2025
-- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
+- **Updated:** Wed May 14 2025
+- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
 
