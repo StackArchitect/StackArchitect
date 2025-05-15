@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed May 14 2025
-- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
+- **Updated:** Thu May 15 2025
+- **Quote of the Day:** *“The best way to get a project done faster is to start sooner.” – Jim Highsmith*
 
