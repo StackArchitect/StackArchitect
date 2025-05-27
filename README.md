@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon May 26 2025
-- **Quote of the Day:** *“The most important property of a program is whether it accomplishes the intention of its user.” – C.A.R. Hoare*
+- **Updated:** Tue May 27 2025
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
