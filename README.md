@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu May 29 2025
-- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
+- **Updated:** Fri May 30 2025
+- **Quote of the Day:** *“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay*
 
