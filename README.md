@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Jun 08 2025
-- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+- **Updated:** Mon Jun 09 2025
+- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
 
