@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Jun 13 2025
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Sat Jun 14 2025
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
