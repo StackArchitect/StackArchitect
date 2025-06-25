@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Jun 24 2025
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Wed Jun 25 2025
+- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
 
