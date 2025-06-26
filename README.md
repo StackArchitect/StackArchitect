@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Jun 25 2025
-- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
+- **Updated:** Thu Jun 26 2025
+- **Quote of the Day:** *“Before software can be reusable it first has to be usable.” – Ralph Johnson*
 
