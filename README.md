@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Jun 29 2025
-- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
+- **Updated:** Mon Jun 30 2025
+- **Quote of the Day:** *“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.” – Brian Kernighan*
 
