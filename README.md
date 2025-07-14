@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Jul 13 2025
-- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
+- **Updated:** Mon Jul 14 2025
+- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
 
