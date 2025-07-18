@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Jul 17 2025
-- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
+- **Updated:** Fri Jul 18 2025
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
