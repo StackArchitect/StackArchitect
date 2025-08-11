@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Aug 10 2025
-- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
+- **Updated:** Mon Aug 11 2025
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
