@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Sep 11 2025
-- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
+- **Updated:** Fri Sep 12 2025
+- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
 
