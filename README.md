@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Oct 01 2025
-- **Quote of the Day:** *“Walking on water and developing software from a specification are easy if both are frozen.” – Edward V. Berard*
+- **Updated:** Thu Oct 02 2025
+- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
 
