@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Oct 11 2025
-- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
+- **Updated:** Sun Oct 12 2025
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
