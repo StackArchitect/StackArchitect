@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Oct 19 2025
-- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
+- **Updated:** Mon Oct 20 2025
+- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
 
