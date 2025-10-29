@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Oct 28 2025
-- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
+- **Updated:** Wed Oct 29 2025
+- **Quote of the Day:** *“The most important property of a program is whether it accomplishes the intention of its user.” – C.A.R. Hoare*
 
