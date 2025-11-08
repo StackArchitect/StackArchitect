@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Nov 07 2025
-- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
+- **Updated:** Sat Nov 08 2025
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
