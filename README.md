@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Nov 16 2025
-- **Quote of the Day:** *“Programmer: A machine that turns coffee into code.” – Anonymous*
+- **Updated:** Mon Nov 17 2025
+- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
