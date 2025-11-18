@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Nov 17 2025
-- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+- **Updated:** Tue Nov 18 2025
+- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
 
