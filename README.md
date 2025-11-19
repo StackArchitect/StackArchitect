@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Nov 18 2025
-- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
+- **Updated:** Wed Nov 19 2025
+- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
 
