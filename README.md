@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Nov 21 2025
-- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
+- **Updated:** Sat Nov 22 2025
+- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
 
