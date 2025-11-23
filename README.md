@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Nov 22 2025
-- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
+- **Updated:** Sun Nov 23 2025
+- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
 
