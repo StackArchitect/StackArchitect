@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Nov 23 2025
-- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
+- **Updated:** Mon Nov 24 2025
+- **Quote of the Day:** *“You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.” – John Romero*
 
