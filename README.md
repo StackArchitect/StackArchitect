@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Nov 26 2025
-- **Quote of the Day:** *“The best way to get a project done faster is to start sooner.” – Jim Highsmith*
+- **Updated:** Thu Nov 27 2025
+- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
 
