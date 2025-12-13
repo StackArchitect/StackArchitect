@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Dec 12 2025
-- **Quote of the Day:** *“Programming is the art of algorithm design and the craft of debugging errant code.” – Ellen Ullman*
+- **Updated:** Sat Dec 13 2025
+- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
 
