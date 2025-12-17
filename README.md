@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Dec 16 2025
-- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
+- **Updated:** Wed Dec 17 2025
+- **Quote of the Day:** *“There are only two kinds of languages: the ones people complain about and the ones nobody uses.” – Bjarne Stroustrup*
 
