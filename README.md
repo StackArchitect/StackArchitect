@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Jan 05 2026
-- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
+- **Updated:** Tue Jan 06 2026
+- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
 
