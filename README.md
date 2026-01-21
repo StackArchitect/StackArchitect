@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Jan 20 2026
-- **Quote of the Day:** *“Software undergoes beta testing shortly before it’s released. Beta is Latin for 'still doesn’t work.'” – Anonymous*
+- **Updated:** Wed Jan 21 2026
+- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
 
