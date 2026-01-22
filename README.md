@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Jan 21 2026
-- **Quote of the Day:** *“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon*
+- **Updated:** Thu Jan 22 2026
+- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
 
