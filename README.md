@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Jan 31 2026
-- **Quote of the Day:** *“The best way to get a project done faster is to start sooner.” – Jim Highsmith*
+- **Updated:** Sun Feb 01 2026
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
