@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Mar 09 2026
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Tue Mar 10 2026
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
