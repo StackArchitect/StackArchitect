@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Mar 16 2026
-- **Quote of the Day:** *“Walking on water and developing software from a specification are easy if both are frozen.” – Edward V. Berard*
+- **Updated:** Tue Mar 17 2026
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
