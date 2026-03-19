@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Mar 18 2026
-- **Quote of the Day:** *“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” – Stephen Hawking*
+- **Updated:** Thu Mar 19 2026
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
