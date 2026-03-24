@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Mar 23 2026
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Tue Mar 24 2026
+- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
 
