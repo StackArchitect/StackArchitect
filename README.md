@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Mar 24 2026
-- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
+- **Updated:** Wed Mar 25 2026
+- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
 
