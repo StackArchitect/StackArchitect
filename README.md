@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Thu Apr 16 2026
-- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
+- **Updated:** Fri Apr 17 2026
+- **Quote of the Day:** *“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra*
 
