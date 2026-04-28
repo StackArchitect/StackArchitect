@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Apr 27 2026
-- **Quote of the Day:** *“The most important property of a program is whether it accomplishes the intention of its user.” – C.A.R. Hoare*
+- **Updated:** Tue Apr 28 2026
+- **Quote of the Day:** *“Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson*
 
