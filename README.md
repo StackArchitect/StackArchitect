@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri May 08 2026
-- **Quote of the Day:** *“The best thing about a boolean is even if you are wrong, you are only off by a bit.” – Anonymous*
+- **Updated:** Sat May 09 2026
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
