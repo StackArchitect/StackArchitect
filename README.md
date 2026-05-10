@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat May 09 2026
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Updated:** Sun May 10 2026
+- **Quote of the Day:** *“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupery*
 
