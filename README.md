@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed May 13 2026
-- **Quote of the Day:** *“Walking on water and developing software from a specification are easy if both are frozen.” – Edward V. Berard*
+- **Updated:** Thu May 14 2026
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
