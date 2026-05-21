@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed May 20 2026
-- **Quote of the Day:** *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
+- **Updated:** Thu May 21 2026
+- **Quote of the Day:** *“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.” – Brian Kernighan*
 
