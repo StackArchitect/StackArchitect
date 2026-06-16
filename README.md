@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Jun 15 2026
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Updated:** Tue Jun 16 2026
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
