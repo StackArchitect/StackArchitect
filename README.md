@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Jun 16 2026
-- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
+- **Updated:** Wed Jun 17 2026
+- **Quote of the Day:** *“There are only two kinds of languages: the ones people complain about and the ones nobody uses.” – Bjarne Stroustrup*
 
