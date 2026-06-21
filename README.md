@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Jun 20 2026
-- **Quote of the Day:** *“First, solve the problem. Then, write the code.” – John Johnson*
+- **Updated:** Sun Jun 21 2026
+- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
 
