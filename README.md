@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Jul 07 2026
-- **Quote of the Day:** *“Experience is the name everyone gives to their mistakes.” – Oscar Wilde*
+- **Updated:** Wed Jul 08 2026
+- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
 
