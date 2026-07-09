@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Wed Jul 08 2026
-- **Quote of the Day:** *“Controlling complexity is the essence of computer programming.” – Brian Kernighan*
+- **Updated:** Thu Jul 09 2026
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
