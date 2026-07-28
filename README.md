@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Jul 27 2026
-- **Quote of the Day:** *“How you look at it is pretty much how you’ll see it.” – Steve Jobs*
+- **Updated:** Tue Jul 28 2026
+- **Quote of the Day:** *“Any fool can use a computer. Many do.” – Ted Nelson*
 
