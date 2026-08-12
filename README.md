@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Aug 11 2026
-- **Quote of the Day:** *“The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.” – Seymour Cray*
+- **Updated:** Wed Aug 12 2026
+- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
 
