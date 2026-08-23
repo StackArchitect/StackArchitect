@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Aug 22 2026
-- **Quote of the Day:** *“The function of good software is to make the complex appear to be simple.” – Grady Booch*
+- **Updated:** Sun Aug 23 2026
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
