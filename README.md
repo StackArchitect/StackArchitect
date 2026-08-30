@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Aug 29 2026
-- **Quote of the Day:** *“It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein*
+- **Updated:** Sun Aug 30 2026
+- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
 
