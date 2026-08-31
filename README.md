@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Aug 30 2026
-- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
+- **Updated:** Mon Aug 31 2026
+- **Quote of the Day:** *“Programming can be fun, so can cryptography; however, they should not be combined.” – Kreitzberg and Shneiderman*
 
