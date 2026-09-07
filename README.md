@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Sep 06 2026
-- **Quote of the Day:** *“Simplicity is prerequisite for reliability.” – Edsger Dijkstra*
+- **Updated:** Mon Sep 07 2026
+- **Quote of the Day:** *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
