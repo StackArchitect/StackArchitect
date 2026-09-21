@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sun Sep 20 2026
-- **Quote of the Day:** *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+- **Updated:** Mon Sep 21 2026
+- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
 
