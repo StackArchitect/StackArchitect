@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Sep 29 2026
-- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
+- **Updated:** Wed Sep 30 2026
+- **Quote of the Day:** *“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine*
 
