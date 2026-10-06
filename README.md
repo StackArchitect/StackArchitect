@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Mon Oct 05 2026
-- **Quote of the Day:** *“There are only two kinds of languages: the ones people complain about and the ones nobody uses.” – Bjarne Stroustrup*
+- **Updated:** Tue Oct 06 2026
+- **Quote of the Day:** *“The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie*
 
