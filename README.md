@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Sat Nov 14 2026
-- **Quote of the Day:** *“Software undergoes beta testing shortly before it’s released. Beta is Latin for 'still doesn’t work.'” – Anonymous*
+- **Updated:** Sun Nov 15 2026
+- **Quote of the Day:** *“I don’t care if it works on your machine! We are not shipping your machine!” – Vidiu Platon*
 
