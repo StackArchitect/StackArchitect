@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Fri Nov 20 2026
-- **Quote of the Day:** *“Testing leads to failure, and failure leads to understanding.” – Burt Rutan*
+- **Updated:** Sat Nov 21 2026
+- **Quote of the Day:** *“Software undergoes beta testing shortly before it’s released. Beta is Latin for 'still doesn’t work.'” – Anonymous*
 
