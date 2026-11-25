@@ -65,6 +65,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
-- **Updated:** Tue Nov 24 2026
-- **Quote of the Day:** *“One man’s crappy software is another man’s full-time job.” – Jessica Gaston*
+- **Updated:** Wed Nov 25 2026
+- **Quote of the Day:** *“In order to understand recursion, one must first understand recursion.” – Anonymous*
 
